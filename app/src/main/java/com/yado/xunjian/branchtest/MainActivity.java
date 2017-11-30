@@ -3,6 +3,9 @@ package com.yado.xunjian.branchtest;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * xxxxxxxxxxx
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
